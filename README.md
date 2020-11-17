@@ -9,6 +9,7 @@
 ## O que mais sobre mim?
 
 Gosto de jogar videogame, e programar
+
 [
 ![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=14997070473&text=Olá&source=&data=&app_absent=)](https://api.whatsapp.com/send?phone=14997070473&text=Olá&source=&data=&app_absent=)
 
