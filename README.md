@@ -1,16 +1,22 @@
-### Hi there 👋
+## ✉️ Find me on: ryanbala12@gmail.com
 
-<!--
-**zimzika/zimzika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><a href="meusite.com" target="_blank"><img src="https://raw.githubusercontent.com/iTPr0/iTPr0/main/programador.gif" alt="Programmer" width="700px"></a>
+<h2>Olá, sou Ryan—Programador e Freelancer</h2>
+</p>
 
-Here are some ideas to get you started:
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zimzika&theme=white&title_color=333333&show_icons=true" alt="Tecnologias mais usadas"></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que mais sobre mim?
+
+Gosto de jogar videogame, e programar
+[
+![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=14997070473&text=Olá&source=&data=&app_absent=)](https://api.whatsapp.com/send?phone=14997070473&text=Olá&source=&data=&app_absent=)
+
+<details>
+    <summary>Minhas estatísticas do Github</summary>
+    <p align="center">
+       <img src="https://github-readme-stats.vercel.app/api?username=zimzika&&show_icons=true&title_color=333333&icon_color=cccccc&text_color=ccccccbg_color=a6a6a6" alt="Github statistics" />
+    </p>
+</details>
+
+Copyright :copyright: 2020 - **Ryan Oliveira** :house_with_garden:
