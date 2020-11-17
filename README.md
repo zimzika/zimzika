@@ -1,6 +1,6 @@
 ## ✉️ Find me on: ryanbala12@gmail.com
 
-<p align="center"><a href="meusite.com" target="_blank"><img src="https://raw.githubusercontent.com/iTPr0/iTPr0/main/programador.gif" alt="Programmer" width="700px"></a>
+<p align="center"><a href="meusite.com" target="_blank"><img src="https://raw.githubusercontent.com/iTPr0/iTPr0/main/programador.gif" alt="Programmer" width="400px"></a>
 <h2>Olá, sou Ryan—Programador e Freelancer</h2>
 </p>
 
