@@ -1,20 +1,25 @@
-## ✉️ Find me on: ryan.zim@outlook.com
+<h2>I'm Ryan Oliveira! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Freelancer at <a href="https://www.99freelas.com.br/user/HuhRyan">99Freelas</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<p align="center"><a href="meusite.com" target="_blank"><img src="https://raw.githubusercontent.com/iTPr0/iTPr0/main/programador.gif" alt="Programmer" width="400px"></a>
-<h2>Olá, sou Ryan—Programador e Freelancer</h2>
-</p>
+[![GitHub zimzika](https://img.shields.io/github/followers/zimzika?label=follow&style=social)](https://github.com/zimzika)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zimzika&theme=white&title_color=333333&show_icons=true" alt="Tecnologias mais usadas"></p>
 
-## O que mais sobre mim?
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Gosto de jogar videogame, e programar
+```javascript
+const Huh = {
+    pronouns: "he" | "her",
+    code: [Javascript, Typescript, HTML, CSS, C++, Python],
+    tools: [React, Node],
+    architecture: ["microservices", "event-driven"],
+    challenge: "Building a Chat, inspired by Discord, with Typescript and React"
+}
+```
 
-<details>
-    <summary>Minhas estatísticas do Github</summary>
-    <p align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=zimzika&&show_icons=true&title_color=333333&icon_color=cccccc&text_color=ccccccbg_color=a6a6a6" alt="Github statistics" />
-    </p>
-</details>
 
-Copyright :copyright: 2020 - **Ryan Oliveira** :house_with_garden:
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
