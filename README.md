@@ -15,7 +15,7 @@ const HuH = {
     code: [Javascript, Typescript, HTML, CSS, C++, Python],
     tools: [React, Node],
     architecture: ["microservices", "event-driven"],
-    challenge: "Crack Spotify"
+    challenge: "Get a job"
 }
 ```
 
