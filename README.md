@@ -6,6 +6,8 @@
 [![GitHub zimzika](https://img.shields.io/github/followers/zimzika?label=follow&style=social)](https://github.com/zimzika)
 <a href="https://discord.bio/p/huhryan" target="_blank"><img width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-icone.png"></img></a>
 
+<p align="center"><img src="https://discord.c99.nl/widget/theme-4/639305800153563146.png" alt="My Discord"></p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zimzika&theme=white&title_color=333333&show_icons=true" alt="Tecnologias mais usadas"></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
