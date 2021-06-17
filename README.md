@@ -15,8 +15,8 @@
 ```javascript
 const HuH = {
     pronouns: "he" | "her",
-    code: [Javascript, Typescript, HTML, CSS, C++, Python],
-    tools: [React, Node],
+    code: [Javascript, Typescript, HTML, CSS, C++, Python, Assembly],
+    tools: [React, Node, Cheat Engine, x64dbg],
     architecture: ["microservices", "event-driven"],
     challenge: "Get a job"
 }
