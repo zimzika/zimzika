@@ -5,7 +5,6 @@
 
 ![](https://komarev.com/ghpvc/?username=zimzika&color=blue)
 [![GitHub zimzika](https://img.shields.io/github/followers/zimzika?label=follow&style=social)](https://github.com/zimzika)
-<a href="https://discord.bio/p/huhryan" target="_blank"><img width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-icone.png"></img></a>
 
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/639305800153563146.png" alt="My Discord"></p>
 
