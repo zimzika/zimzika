@@ -3,6 +3,7 @@
 <p><em>Coding in <a href="https://verysecret.com">Home</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+![](https://komarev.com/ghpvc/?username=zimzika&color=blue)
 [![GitHub zimzika](https://img.shields.io/github/followers/zimzika?label=follow&style=social)](https://github.com/zimzika)
 <a href="https://discord.bio/p/huhryan" target="_blank"><img width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-icone.png"></img></a>
 
