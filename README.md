@@ -8,6 +8,8 @@
 
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/639305800153563146.png" alt="My Discord"></p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/zimzika/zimzika/cce03e76730f5b1112c6c8bdc44a40b0a230211d/github-contribution-grid-snake.svg"></p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zimzika&theme=white&title_color=333333&show_icons=true" alt="Tecnologias mais usadas"></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
