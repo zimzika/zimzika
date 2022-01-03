@@ -5,6 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=zimzika&color=blue)
 [![GitHub zimzika](https://img.shields.io/github/followers/zimzika?label=follow&style=social)](https://github.com/zimzika)
+![](https://www.codewars.com/users/zimzika/badges/small)
 
 <img src="https://discord.c99.nl/widget/theme-2/639305800153563146.png" alt="My Discord">
 
