@@ -1,7 +1,5 @@
 <h2>I'm Ryan Oliveira! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>My portfolio: <a target="_blank" href="https://zimzika.github.io/portfolio">Here<a/> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
 ![](https://komarev.com/ghpvc/?username=zimzika&color=blue)
 [![GitHub zimzika](https://img.shields.io/github/followers/zimzika?label=follow&style=social)](https://github.com/zimzika)
