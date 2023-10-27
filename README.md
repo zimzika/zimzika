@@ -5,8 +5,6 @@
 [![GitHub zimzika](https://img.shields.io/github/followers/zimzika?label=follow&style=social)](https://github.com/zimzika)
 ![](https://www.codewars.com/users/zimzika/badges/small)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lwrpewo3n5cogrt7bplmtg3ymi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31lwrpewo3n5cogrt7bplmtg3ymi&redirect=true)
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zimzika&theme=white&title_color=333333&show_icons=true" alt="Tecnologias mais usadas">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
